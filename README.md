@@ -1,24 +1,31 @@
-# Hi, I'm Anusha Kalva 👋
+# Hey, I'm Anusha Kalva 👋
 
-### Aspiring Software Engineer | AI & Application Development
+### Software Engineering | AI Applications | Mobile Development
 
-I'm passionate about building practical applications and solving real-world problems through software engineering.
+I enjoy turning ideas into practical software. My projects span AI-powered applications, personal finance, and problem-solving, with hands-on experience in Flutter mobile application development at RTIH–Ambigo.
 
-- 💻 Developed independent projects involving AI and application development
-- 📱 Gained hands-on experience in Flutter mobile app development at RTIH
-- 🚀 Interested in building reliable, user-focused software
+I care about building applications that are useful, understandable, and designed around real user needs.
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 What I Bring
 
-**Programming Languages**
+- **Builder mindset:** Experience developing independent software projects from idea to deployment.
+- **AI application development:** Experience working on projects such as AI Medical Scribe and Jarvis.
+- **Mobile development:** Practical exposure to Flutter application development at RTIH–Ambigo.
+- **Problem-solving:** Interested in writing reliable code and strengthening core software engineering skills.
+
+---
+
+## 🛠️ Technologies
+
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Development Tools**
+**Development**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,18 +35,21 @@ I'm passionate about building practical applications and solving real-world prob
 
 ## 🚀 Featured Projects
 
-### 🩺 [AI Medical Scribe](https://github.com/Anushakalva/ai-medical-scribe)
+### 🩺 AI Medical Scribe
 An AI-powered application designed to assist with medical documentation.
 
-### 💰 [SmartSpend](https://github.com/Anushakalva/smart-expense-tracker)
-A personal finance application focused on spending management.
+### 💰 SmartSpend
+A personal finance application focused on managing and understanding spending.
 
-### 🤖 [Jarvis](https://github.com/Anushakalva/jarvis-ai-assistant)
+### 🤖 Jarvis
 A Python-based AI question-answering application.
 
-### 🩻 [Diabetic Retinopathy Detection]
-A team-based academic project focused on detecting diabetic retinopathy.
+### 🩻 Diabetic Retinopathy Detection
+A collaborative academic project focused on diabetic retinopathy detection.
 
+*Explore the repositories for implementation details, technologies, and project documentation.*
+
+---
 
 ## 💼 Experience
 
@@ -52,17 +62,13 @@ A team-based academic project focused on detecting diabetic retinopathy.
 
 
 
----
+## 🎯 My Engineering Focus
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushakalva&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushakalva&layout=compact&theme=tokyonight&hide_border=true)
+I aim to build strong software engineering fundamentals, write maintainable code, and develop applications that solve meaningful problems.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushakalva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-kalva-5251602a4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
